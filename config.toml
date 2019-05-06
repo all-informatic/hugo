@@ -1,3 +1,133 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+#baseurl         = "https://falsefire.com/"
+baseurl         = "https://localhost:1313/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
+#theme           = "hamburg"
+theme           = "den"
+title           = "False Fire"
+subTitle = "True Story: Tiananmen Square Self-Immolation"
+#languageCode    = "en-US"
+#disqusShortname = ""
+#paginate        = 6
+#SectionPagesMenu = "main"
+#canonifyurls    = true
+
+# ------------------------------------- #
+# ---- Other Params ------------------- #
+# ------------------------------------- #
+
+[params]
+  since = "2017"             # Site creation time
+  rssFullContent = true      # set true to use full content instead of summary
+
+  # site info (optional)
+  keywords = ["Hugo", "theme","den"]
+  description = "True Story: Tiananmen Square Self-Immolation"
+  logoTitle = "" # shown on top-left, default: title
+  #siteLogoImage = "images/globe.svg"     # shown besides logoTitle
+  # headerTitle = "Den"                   # default: title
+  headerImage = "images/logo.jpg"
+  showAuthorCard = true # Whether to show author information below the article
+
+  showMenuLanguages = true
+
+  autoLoadComments = false # auto load comment when scrolling down
+
+  # paginate style, default use numbered pagination links
+  # if true, use original "Previous" and "Next" links.
+  # paginateOriginalStyle = true
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  google_verification = ""  # Google_Verification
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
+
+# ------------------------------------- #
+# ---- Related Articles --------------- #
+# ------------------------------------- #
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 50
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = true
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 200
+
+[[related.indices]]
+  name = "keywords"
+  weight = 150
+
+[[related.indices]]
+  name = "tags"
+  weight = 100
+
+
+[languages.en]
+  languageCode = "en"
+  languageName = "English"
+  #contentDir = "content/en"
+  weight = 1
+
+  [[languages.en.menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "about"
+  [[languages.en.menu.main]]
+    name = "Articles & Reports"
+    weight = 2
+    identifier = "reportss"
+    url = "reports/"
+
+[languages.zh]
+  languageCode = "zh"
+  languageName = "中文"
+  weight = 2
+  title = "偽火"
+
+  [languages.zh.params]
+    description = "天安門廣場自焚真相"
+  [languages.zh.menu]
+    [[languages.zh.menu.main]]
+      name = "關於《偽火》"
+      identifier = "about"
+      url = "about"
+      weight = 1
+    [[languages.zh.menu.main]]
+      name = "報導"
+      identifier = "reports"
+      url = "/reports"
+      weight = 2
+
+[languages.fr]
+  languageCode = "fr"
+  languageName = "French"
+  weight = 3
+  title = "False Fire (F)"
+  subtitle = "The Truth: Tiananmen Square Self-Immolation"
+
+  [languages.fr.params]
+    description = "True Story: Tiananmen Square Self-Immolation (French)"
+
+  [languages.fr.menu]
+    [[languages.fr.menu.main]]
+      name = "About"
+      identifier = "about"
+      url = "about"
+      weight = 1
+    [[languages.fr.menu.main]]
+      name = "Articles & reports"
+      identifier = "reports"
+      url = "reports"
+      weight = 2
