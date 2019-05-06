@@ -1,24 +1,10 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
-title = "About the False Fire Video"
-tags = ['blog']
-summary = "The most important information about our blog *The green spot* can be found here."
+title = "À propos du programme vidéo False Fire"
 +++
-> "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
 
-# What is this place?
-You landed on the blog *The green spot* where we write stories and reports about trekking, but trekking of a different kind. We write about our tours and things that come to our mind.
+# À propos du programme vidéo False Fire
 
-When you hear the word *we*, Kristina and Hauke (we're both from Germany) are ment. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
+La vidéo False Fire: China's Tragic New Standard in State Deception qui analyse l'incident "auto-immolation" de 2001 sur la place Tiananmen Square, a obtenu la mention Certificate of Honorable Mention lors du 51ème Columbus International Film & Video Festival. New Tang Dynasty TV, qui est une chaîne de télévision chinoise privée à but non lucratif, a produit le film. La cérémonie de remise du prix s'est tenu au the Kansas Center, Columbus Arts College, Columbus, dans l'Etat de l'Ohio.
 
-# The special thing about this blog
-Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things. Most of the people, however, use (well known) hiking trails, which is not the case with us. We love to go off-road ... or off-trail.
-
-> "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
-> <small>Another reddit.com user</small>
-
-Too dangerous for others, a welcome adventure for us ;)
-
-# About the name
-We thought long about a name and came up with *The green spot*, because there two meanings in there: First is our tent bright green and second, there're lots of green spots in the world we (want/will) travel to.
+Dans le programme vidéo False Fire, NTD TV, dont le but est de fournir une information non biaisée et authentique et de soutenir les droits de l'Homme, celle-ci a mené des investigations aux endroits suspects de l'incident. Le résultat de l'analyse a révélé que la soit disant affaire d'auto-immolation a fort probalement été orchestrée par le gouvernement chinois afin de contenir le mouvement du Falun Gong et de fabriquer des excuses pour persécuter le Falun Gong.

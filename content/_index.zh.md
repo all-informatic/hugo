@@ -1,27 +1,23 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
-title = "False Fire Homepage"
-#tags = ['blog']
-summary = "The most important information about our blog *The green spot* can be found here."
 +++
 
-Home page Chinese!
+# 關於“自焚”
 
-> "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
+所謂“自焚”案，特指2001年1月23日除夕，在北京天安門廣場發生的自焚事件。當天的新華社報道有五人參與自焚，并指控他們是法輪功學員。
 
-# What is this place?
-You landed on the blog *The green spot* where we write stories and reports about trekking, but trekking of a different kind. We write about our tours and things that come to our mind.
+一周以后，中國中央電視臺“焦點訪談”節目对此事又做專題報道，報道中，參與自焚的人数从五人变成七人。數家中國官方報紙的報道中特別説明“焦點訪談”節目中的近距離特写镜头，取自美國CNN記者的摄像。事后，CNN電視臺新聞總監否認CNN記者拍攝了这些近镜头的説法。
 
-When you hear the word *we*, Kristina and Hauke (we're both from Germany) are ment. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
+“焦點訪談”節目中突出播放了12嵗小女孩劉思影大面积烧伤的镜头，並説明她的母亲劉春玲在自焚中身亡。此后，中國官方对法輪功進行了新一轮大批判宣傳攻勢，希望女孩劉思影的悲劇可以激起民衆对法輪功的仇恨，扭轉民意，以尋求为難以執行的鎮壓法輪功政策獲得群衆支持。
 
-# The special thing about this blog
-Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things. Most of the people, however, use (well known) hiking trails, which is not the case with us. We love to go off-road ... or off-trail.
+法輪功明確否認參與天安門自焚的人員是法輪功學員，並指出“焦點訪談”和其他中國官方媒體对这一事件的報道漏洞百出。究竟是自焚还是騙局？一時間扑朔迷离……
 
-> "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
-> <small>Another reddit.com user</small>
+# 《偽火》視頻 - 天安門廣場“自焚”事件分析
 
-Too dangerous for others, a welcome adventure for us ;)
+### 第一部分
 
-# About the name
-We thought long about a name and came up with *The green spot*, because there two meanings in there: First is our tent bright green and second, there're lots of green spots in the world we (want/will) travel to.
+{{< youtube YiyQ9TwTWr0 >}}
+
+### 第二部分
+
+{{< youtube NL84_yodckc >}}

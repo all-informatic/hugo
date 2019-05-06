@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 #theme           = "hamburg"
 theme           = "den"
-title           = "False Fire"
+title           = "FALSE FIRE"
 subTitle = "True Story: Tiananmen Square Self-Immolation"
 #languageCode    = "en-US"
 #disqusShortname = ""
@@ -85,7 +85,7 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
     identifier = "about"
     url = "about"
   [[languages.en.menu.main]]
-    name = "Articles & Reports"
+    name = "Analysis and Insights"
     weight = 2
     identifier = "reportss"
     url = "reports/"
@@ -105,14 +105,14 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
       url = "about"
       weight = 1
     [[languages.zh.menu.main]]
-      name = "報導"
+      name = "報導與文章"
       identifier = "reports"
       url = "/reports"
       weight = 2
 
 [languages.fr]
   languageCode = "fr"
-  languageName = "French"
+  languageName = "Français"
   weight = 3
   title = "False Fire (F)"
   subtitle = "The Truth: Tiananmen Square Self-Immolation"
@@ -122,12 +122,12 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
 
   [languages.fr.menu]
     [[languages.fr.menu.main]]
-      name = "About"
+      name = "About (F)"
       identifier = "about"
       url = "about"
       weight = 1
     [[languages.fr.menu.main]]
-      name = "Articles & reports"
+      name = "Analyses"
       identifier = "reports"
       url = "reports"
       weight = 2

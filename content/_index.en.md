@@ -1,27 +1,21 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
-title = "False Fire Homepage"
-#tags = ['blog']
-summary = "The most important information about our blog *The green spot* can be found here."
 +++
 
-Home page!
+# Tiananmen Square "Self-Immolation"
 
-> "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
+On January 23, 2001, the day before the Chinese Lunar New Year, it was reported that five people set themselves on fire in Tiananmen Square, Beijing, China.
 
-# What is this place?
-You landed on the blog *The green spot* where we write stories and reports about trekking, but trekking of a different kind. We write about our tours and things that come to our mind.
+A week later, the Chinese government television station, CCTV, broadcast a program showing a video of the incident, but in the video, the number of victims was increased from five to seven. Several Chinese State-run newspapers said that the closeup shots in the video was taken from the videotape confiscated from CNN, in order to answer the question why the government could videotape the details of the incident in such a short time if it was not a staged event.
 
-When you hear the word *we*, Kristina and Hauke (we're both from Germany) are ment. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
+In the program, CCTV also broadcast the heartbreaking pictures of the 12-year-old Liu Siying, who was severely burned. Her mother Liu Chunling died from the self-immolation. The government utilized this incident to intensify its campaign against Falun Gong by forcing every citizen to sign a form condemning Falun Gong. By using the pictures of Liu Siying to foment the public’s hatred towards Falun Gong, the government hoped to justify the long-lasting violent crackdown against Falun Gong.
 
-# The special thing about this blog
-Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things. Most of the people, however, use (well known) hiking trails, which is not the case with us. We love to go off-road ... or off-trail.
+# False Fire - Analysis of the "Self-Immolation" Inccident
 
-> "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
-> <small>Another reddit.com user</small>
+### Part 1
 
-Too dangerous for others, a welcome adventure for us ;)
+{{< youtube cek-6yplMAE >}}
 
-# About the name
-We thought long about a name and came up with *The green spot*, because there two meanings in there: First is our tent bright green and second, there're lots of green spots in the world we (want/will) travel to.
+### Part 2
+
+{{< youtube ErmImHogSKc >}}
