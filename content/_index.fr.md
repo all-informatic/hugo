@@ -18,3 +18,11 @@ Après cette affaire, tous les médias internationaux ont rediffusé le reportag
 Par exemple, une jeune fille censée être gravement blessée et ayant subi une trachéotomie peut encore parler et chanter avec une parfaite prononciation – impossibilité médicale. Les brûlures des «victimes» sont recouvertes de bandages hermétiques alors qu'elles doivent être laissées à l'air, les journalistes pénètrent dans les chambres sans vêtements de protection et sans aucun souci d'asepsie. Sur la place Tian An Men, un policier qui tient une couverture anti-feu au-dessus d'une des victimes hésite, attend que celle-ci ait crié un slogan Falun Gong devant la caméra, et seulement alors la recouvre de la couverture.
 
 Parmi d'autres détails, un journaliste du Washington Post a enquêté sur la jeune femme décédée, Liu Chunling, et révélé qu’elle n’avait jamais pratiqué le Falun Gong. Sa fille, qui avait bien récupéré de ses brûlures, est décédée mystérieusement par la suite.
+
+### Part 1
+
+{{< youtube cek-6yplMAE >}}
+
+### Part 2
+
+{{< youtube ErmImHogSKc >}}

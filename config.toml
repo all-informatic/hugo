@@ -2,10 +2,9 @@
 baseurl         = "https://localhost:1313/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
-#theme           = "hamburg"
 theme           = "den"
 title           = "FALSE FIRE"
-subTitle = "True Story: Tiananmen Square Self-Immolation"
+subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
 #languageCode    = "en-US"
 #disqusShortname = ""
 #paginate        = 6
@@ -22,7 +21,7 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
 
   # site info (optional)
   keywords = ["Hugo", "theme","den"]
-  description = "True Story: Tiananmen Square Self-Immolation"
+  description = "True Story: Staged Tiananmen Square Self-Immolation"
   logoTitle = "" # shown on top-left, default: title
   #siteLogoImage = "images/globe.svg"     # shown besides logoTitle
   # headerTitle = "Den"                   # default: title
@@ -85,10 +84,34 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
     identifier = "about"
     url = "about"
   [[languages.en.menu.main]]
-    name = "Analysis and Insights"
+    name = "Reports and Analyses"
     weight = 2
     identifier = "reportss"
     url = "reports/"
+
+  [[languages.en.menu.links]]
+    name = "Email us"
+    weight = 1
+    identifier = "email"
+    url = "mailto:falsefiresite@gmail.com"
+  [[languages.en.menu.links]]
+    name = "Wikipedia"
+    weight = 2
+    identifier = "wikipedia"
+    url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
+
+  [[languages.en.menu.sitemap]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.en.menu.sitemap]]
+    name = "About False Fire"
+    url = "about"
+    weight = 2
+  [[languages.en.menu.sitemap]]
+    name = "Reports and Analyses"
+    url = "reports"
+    weight = 3
 
 [languages.zh]
   languageCode = "zh"
@@ -98,6 +121,7 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
 
   [languages.zh.params]
     description = "天安門廣場自焚真相"
+
   [languages.zh.menu]
     [[languages.zh.menu.main]]
       name = "關於《偽火》"
@@ -109,6 +133,30 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
       identifier = "reports"
       url = "/reports"
       weight = 2
+
+    [[languages.zh.menu.links]]
+      name = "電子郵件"
+      weight = 1
+      identifier = "email"
+      url = "mailto:falsefiresite@gmail.com"
+    [[languages.zh.menu.links]]
+      name = "Wikipedia"
+      weight = 2
+      identifier = "wikipedia"
+      url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
+
+    [[languages.zh.menu.sitemap]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.zh.menu.sitemap]]
+      name = "About False Fire"
+      url = "about"
+      weight = 2
+    [[languages.zh.menu.sitemap]]
+      name = "Reports and Analyses"
+      url = "reports"
+      weight = 3
 
 [languages.fr]
   languageCode = "fr"
@@ -131,3 +179,27 @@ subTitle = "True Story: Tiananmen Square Self-Immolation"
       identifier = "reports"
       url = "reports"
       weight = 2
+
+    [[languages.fr.menu.links]]
+      name = "Email"
+      weight = 1
+      identifier = "email"
+      url = "mailto:falsefiresite@gmail.com"
+    [[languages.fr.menu.links]]
+      name = "Wikipedia"
+      weight = 2
+      identifier = "wikipedia"
+      url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
+
+    [[languages.fr.menu.sitemap]]
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.fr.menu.sitemap]]
+      name = "About False Fire"
+      url = "about"
+      weight = 2
+    [[languages.fr.menu.sitemap]]
+      name = "Reports and Analyses"
+      url = "reports"
+      weight = 3
