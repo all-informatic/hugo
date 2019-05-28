@@ -1,6 +1,6 @@
 +++
 date = "2001-02-13T02:34:52+02:00"
-title = "Beijing is Burning - More Lies from the PRC"
+title = "Ann Noonan: Beijing is Burning - More Lies from the PRC"
 description = "by Ann Noonan, policy director for the Laogai Foundation"
 noshowdate = true
 +++
@@ -10,25 +10,25 @@ noshowdate = true
 ## Beijing is Burning - More Lies from the PRC
 **Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
 
-By **Ann Noonan**, policy director for the Laogai Foundation
+By **Ann Noonan**, Policy Director for the Laogai Foundation
 
 *February 13, 2001*
 
-aught up in its desperate bid to host the 2008 Olympic Games, Beijing is a city in turmoil. The PRC's insistence on soi-disant �social and political stability� has allowed it to resort to old Communist tactics reminiscent of Chairman Mao. No group knows this better than the Falun Gong.
+Caught up in its desperate bid to host the 2008 Olympic Games, Beijing is a city in turmoil. The PRC's insistence on soi-disant "social and political stability" has allowed it to resort to old Communist tactics reminiscent of Chairman Mao. No group knows this better than the Falun Gong.
 
-Last month, on the eve of the Chinese New Year, seven people described as Falun Gong members reportedly tried to commit suicide in Tiananmen Square. Five of the seven succeeded in setting themselves on fire, leaving one woman dead from her injuries and four others severely burned, including the deceased�s 12 year-old daughter.
+Last month, on the eve of the Chinese New Year, seven people described as Falun Gong members reportedly tried to commit suicide in Tiananmen Square. Five of the seven succeeded in setting themselves on fire, leaving one woman dead from her injuries and four others severely burned, including the deceased's 12 year-old daughter.
 
 Was this event staged or allowed to happen by China's government in order to discredit the Falun Gong? It is hardly a far-fetched hypothesis. China's government has promised to extinguish all problems connected with the Falun Gong in advance of the 80th anniversary of Chinese Communism, which Beijing plans on celebrating this July. It has already gone to great lengths to crack down on the banned spiritual movement, accusing it of being a dangerous and wicked cult.
 
 Tens of thousands of Falun Gong practitioners have been hauled off to laogai camps. Still others have been locked up in mental hospitals without the benefit of due process, and at least 140 more have been killed.
 
-In its intensifying campaign to discredit the sect, China's leaders have now seized on a new target: the Western media. Beijing maintains that several American journalists, including two from CNN, are being investigated on possible murder charges relating to last month�s burnings in Tiananmen Square.
+In its intensifying campaign to discredit the sect, China's leaders have now seized on a new target: the Western media. Beijing maintains that several American journalists, including two from CNN, are being investigated on possible murder charges relating to last month's burnings in Tiananmen Square.
 
-A report in The Yangcheng Evening News entitled, "Witnessing a Mother and Child Self-Immolate and Doing Nothing--Exactly What Was the Role of Western Journalists?" read like a bulletin from Orwell�s Ministry of Truth. It claimed that �unidentified police officials� had evidence showing that a few foreign reporters were told in advance that a dramatic Falun Gong event was to take place at the Square on January 23rd. The article said that legal actions would be taken on the murder charge of "instigating and abetting a suicide" if it could be confirmed the reporters had in fact participated in the planning of the incident.
+A report in The Yangcheng Evening News entitled, "Witnessing a Mother and Child Self-Immolate and Doing Nothing--Exactly What Was the Role of Western Journalists?" read like a bulletin from Orwell's Ministry of Truth. It claimed that "unidentified police officials" had evidence showing that a few foreign reporters were told in advance that a dramatic Falun Gong event was to take place at the Square on January 23rd. The article said that legal actions would be taken on the murder charge of "instigating and abetting a suicide" if it could be confirmed the reporters had in fact participated in the planning of the incident.
 
 But, according to multiple reports, the only foreign reporters who actually witnessed the events included a producer and cameraman for CNN, and both of them say they had received no advance warning of the incident in Tiananmen Square.
 
-Curiously, while the Chinese media have been quick to excoriate Western journalists, they have breathlessly exonerated Beijing�s police. And yet, the police had clearly been at the ready with fire extinguishers when the self-immolators started the blaze. And in a move unmistakenly designed to rally enmity toward the Falun Gong, PRC officials hastily arranged an interview with the wounded 12 year-old. This poor child, who had suffered large-scale burn injuries, was shepherded into an official interview immediately after undergoing a tracheotomy.
+Curiously, while the Chinese media have been quick to excoriate Western journalists, they have breathlessly exonerated Beijing's police. And yet, the police had clearly been at the ready with fire extinguishers when the self-immolators started the blaze. And in a move unmistakenly designed to rally enmity toward the Falun Gong, PRC officials hastily arranged an interview with the wounded 12 year-old. This poor child, who had suffered large-scale burn injuries, was shepherded into an official interview immediately after undergoing a tracheotomy.
 
 Meanwhile, New York's Falun Dafa Information Center steadfastly rejects reports that the Beijing burn victims were true members of the sect. The deceased woman had never been known to practice Falun Gong exercises; nor had she openly associated herself with the movement. More importantly, the essential teachings of Falun Gong explicitly forbid violence of any kind.
 
@@ -38,6 +38,6 @@ Still, one wonders why the Falun Gong would deny its participation if it had org
 
 It has been noted that some hard-liners are not even attempting to camouflage their Mao-style tactics. New York Times reporter Erik Eckholm recently quoted (from an article in China's Legal Daily) an old slogan that describes Falun Gong followers as the "running dogs of foreign anti-Chinese forces."
 
-It is wrenching to think that all it took to reinvigorate Beijing�s propaganda machine was a few simple breathing exercises. China�s war on the Falun Gong revitalizes Mao�s dream: to let no aspect of Chinese society escape the party�s grasp.
+It is wrenching to think that all it took to reinvigorate Beijing's propaganda machine was a few simple breathing exercises. China's war on the Falun Gong revitalizes Mao's dream: to let no aspect of Chinese society escape the party's grasp.
 
 Are the 2008 Olympics worth all that?

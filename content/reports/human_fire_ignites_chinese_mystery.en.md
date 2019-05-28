@@ -1,11 +1,9 @@
 +++
 date = "2001-02-04T02:34:52+02:00"
-title = "Washington Post: Human Fire Ignites Chinese Mystery"
+title = "Philip Pan, Washington Post: Human Fire Ignites Chinese Mystery"
 description = "by Philip P. Pan"
 noshowdate = true
 +++
-
-http://faluninfo.net/washington-post-human-fire-ignites-chinese-mystery-excerpts/
 
 ## Human Fire Ignites Chinese Mystery
 **Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
@@ -71,5 +69,8 @@ There were also questions about how Liu supported herself and about the whereabo
 
 None ever saw her practice Falun Gong.
 
-
 [^1]: The above are excerpts from the original article from The Washington Post, which you can read [here](https://www.washingtonpost.com/archive/politics/2001/02/04/human-fire-ignites-chinese-mystery/e27303e3-6117-4ec3-b6cf-58f03cdb4773/).
+
+[Washington Post Link](https://www.washingtonpost.com/archive/politics/2001/02/04/human-fire-ignites-chinese-mystery/e27303e3-6117-4ec3-b6cf-58f03cdb4773/?utm_term=.e0b129d43a6c)
+
+[Falun Info Link](http://faluninfo.net/washington-post-human-fire-ignites-chinese-mystery-excerpts/)
