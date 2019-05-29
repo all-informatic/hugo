@@ -19,6 +19,38 @@ Par exemple, une jeune fille censée être gravement blessée et ayant subi une 
 
 Parmi d'autres détails, un journaliste du Washington Post a enquêté sur la jeune femme décédée, Liu Chunling, et révélé qu’elle n’avait jamais pratiqué le Falun Gong. Sa fille, qui avait bien récupéré de ses brûlures, est décédée mystérieusement par la suite.
 
+&nbsp;
+# Reports and Analyses
+
+> Human Fire Ignites Chinese Mystery
+> - <cite>Philip P. Pan, **Washington Post** [[Read it]](reports/human_fire_ignites_chinese_mystery)</cite>
+
+> Beijing is Burning - More lies from the PRC
+> - <cite>Ann Noonan, **National Review** [[Read it]](reports/beijing_is_burning)</cite>
+
+> The Fires This Time:Immolation Or Deception In Beijing
+> - <cite> **MediaChannel** [[Read it]](reports/)</cite>
+
+> Investigation Uncovers More Lies in Chinese Regime's Story of Tragic Self-Immolation Incident
+> - <cite>**WOIPFG** [[Read it]](reports/)</cite>
+
+> The Tiananmen Square "Self-Immolation"
+> - <cite>**FalunInfo** [[Read it]](reports/)</cite>
+
+> Tiananmen Square Self-Immolation? Actually a Hoax
+> - <cite>**Epoch Times** [[Read it]](reports/)</cite>
+
+> Another important part of the government's propaganda campaign has been to publicise statements from people identified as former Falun Gong practitioners...
+> - <cite>**Amnesty International** [[Read it]](reports/)</cite>
+
+> China's determination to prevent the foreign press from covering the activities and government repression of the Falungong clearly illustrates its rejection of independent news gathering.
+> - <cite>**Reporters Without Borders**:  [[Read the article]](reports/)</cite>
+
+[More reports and analyses...](reports/)
+
+&nbsp;
+# False Fire - Analysis of the "Self-Immolation" Inccident
+
 ### Part 1
 
 {{< youtube cek-6yplMAE >}}

@@ -13,6 +13,34 @@ title = "False Fire Homepage"
 
 法輪功明確否認參與天安門自焚的人員是法輪功學員，並指出“焦點訪談”和其他中國官方媒體对这一事件的報道漏洞百出。究竟是自焚还是騙局？一時間扑朔迷离……
 
+# 報導和分析
+
+> Human Fire Ignites Chinese Mystery
+> - <cite>Philip P. Pan, **Washington Post** [[閱讀]](reports/human_fire_ignites_chinese_mystery)</cite>
+
+> Beijing is Burning - More lies from the PRC
+> - <cite>Ann Noonan, **National Review** [[閱讀]](reports/beijing_is_burning)</cite>
+
+> The Fires This Time:Immolation Or Deception In Beijing
+> - <cite> **MediaChannel** [[閱讀]](reports/)</cite>
+
+> Investigation Uncovers More Lies in Chinese Regime's Story of Tragic Self-Immolation Incident
+> - <cite>**WOIPFG** [[閱讀]](reports/)</cite>
+
+> The Tiananmen Square "Self-Immolation"
+> - <cite>**FalunInfo** [[閱讀]](reports/)</cite>
+
+> Tiananmen Square Self-Immolation? Actually a Hoax
+> - <cite>**Epoch Times** [[閱讀]](reports/)</cite>
+
+> Another important part of the government's propaganda campaign has been to publicise statements from people identified as former Falun Gong practitioners...
+> - <cite>**Amnesty International** [[閱讀]](reports/)</cite>
+
+> China's determination to prevent the foreign press from covering the activities and government repression of the Falungong clearly illustrates its rejection of independent news gathering.
+> - <cite>**Reporters Without Borders**:  [[閱讀]](reports/)</cite>
+
+[[更多...]](reports/)
+
 # 《偽火》視頻 - “自焚”事件分析
 
 ### 第一部分

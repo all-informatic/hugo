@@ -10,6 +10,7 @@ A week later, the Chinese government television station, CCTV, broadcast a progr
 
 In the program, CCTV also broadcast the heartbreaking pictures of the 12-year-old Liu Siying, who was severely burned. Her mother Liu Chunling died from the self-immolation. The government utilized this incident to intensify its campaign against Falun Gong by forcing every citizen to sign a form condemning Falun Gong. By using the pictures of Liu Siying to foment the public’s hatred towards Falun Gong, the government hoped to justify the long-lasting violent crackdown against Falun Gong.
 
+&nbsp;
 # Reports and Analyses
 
 > Human Fire Ignites Chinese Mystery
@@ -34,10 +35,11 @@ In the program, CCTV also broadcast the heartbreaking pictures of the 12-year-ol
 > - <cite>**Amnesty International** [[Read it]](reports/)</cite>
 
 > China's determination to prevent the foreign press from covering the activities and government repression of the Falungong clearly illustrates its rejection of independent news gathering.
-> - <cite>**Reporters Without Borders**:  [[Read the article]](reports/)</cite>
+> - <cite>**Reporters Without Borders**:  [[Read it]](reports/)</cite>
 
-[[More reports and analyses]](reports/)
+[More reports and analyses...](reports/)
 
+&nbsp;
 # False Fire - Analysis of the "Self-Immolation" Inccident
 
 ### Part 1
