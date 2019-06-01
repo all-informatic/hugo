@@ -1,18 +1,15 @@
 +++
 date = "2001-02-13T00:00:00+02:00"
-title = "Ann Noonan: Beijing is Burning - More Lies from the PRC"
-description = "by Ann Noonan, policy director for the Laogai Foundation"
+title = "國家評論: 北京在燃燒 - 更多的中國謊言"
+description = "安.努男, 勞改研究基金會政策主任"
 noshowdate = true
 +++
 
-[Web Archive](https://web.archive.org/web/20131029202638/http://old.nationalreview.com/comment/commentprint021301a.html)
+## 北京在燃燒 - 更多的中國謊言
 
-## Beijing is Burning - More Lies from the PRC
-**Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
+**安.努男**, 勞改研究基金會政策主任
 
-By **Ann Noonan**, Policy Director for the Laogai Foundation
-
-*February 13, 2001*
+*2001年2月13日*
 
 Caught up in its desperate bid to host the 2008 Olympic Games, Beijing is a city in turmoil. The PRC's insistence on soi-disant "social and political stability" has allowed it to resort to old Communist tactics reminiscent of Chairman Mao. No group knows this better than the Falun Gong.
 
@@ -41,3 +38,5 @@ It has been noted that some hard-liners are not even attempting to camouflage th
 It is wrenching to think that all it took to reinvigorate Beijing's propaganda machine was a few simple breathing exercises. China's war on the Falun Gong revitalizes Mao's dream: to let no aspect of Chinese society escape the party's grasp.
 
 Are the 2008 Olympics worth all that?
+
+[Web Archive](https://web.archive.org/web/20131029202638/http://old.nationalreview.com/comment/commentprint021301a.html)

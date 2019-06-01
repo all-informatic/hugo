@@ -1,6 +1,6 @@
 +++
 date = "2001-02-04T00:00:00+02:00"
-title = "Philip Pan, Washington Post: Human Fire Ignites Chinese Mystery"
+title = "Philip Pan, Washington Post: Human Fire Ignites Chinese Mystery (F)"
 description = "by Philip P. Pan"
 noshowdate = true
 +++

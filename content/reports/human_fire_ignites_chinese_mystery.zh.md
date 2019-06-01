@@ -1,16 +1,16 @@
 +++
 date = "2001-02-04T00:00:00+02:00"
-title = "Philip Pan, Washington Post: Human Fire Ignites Chinese Mystery"
-description = "by Philip P. Pan"
+title = "華盛頓郵報: 人體火焰點燃中國疑團"
+description = "菲利普.潘"
 noshowdate = true
 +++
 
-## Human Fire Ignites Chinese Mystery
-**Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
+## 人體火焰點燃中國疑團 - 公開自焚的動機加劇關於法輪功的爭端 (節選[^1])
 
-By **Philip P. Pan**
 
-*February 4, 2001*
+**[菲利普.潘](https://en.wikipedia.org/wiki/Philip_Pan)**
+
+*2001年2月4日*
 
 
 KAIFENG, China (Washington Post Foreign Service) — There is a neighborhood on the eastern side of this once-glorious city called Apple Orchard, but there are no apple trees here, only drab concrete buildings and clusters of unemployed men loitering on mud streets. It was here, in a fourth-floor apartment in Building Six, that Liu Chunling and her 12-year-old daughter, Liu Siying, lived.

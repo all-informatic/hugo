@@ -1,5 +1,6 @@
 #baseurl         = "https://falsefire.com/"
-baseurl         = "https://localhost:1313/"
+#baseurl         = "https://localhost:1313/"
+#baseurl         = "https://falsefiresite.github.io/falsefire.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 theme           = "den"

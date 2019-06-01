@@ -15,14 +15,14 @@ title = "False Fire Homepage"
 
 # 報導和分析
 
-> Human Fire Ignites Chinese Mystery
-> - <cite>Philip P. Pan, **Washington Post** [[閱讀]](reports/human_fire_ignites_chinese_mystery)</cite>
+> 人體火焰點燃中國疑團
+> - <cite>菲利普.潘, **華盛頓郵報** [[閱讀]](reports/human_fire_ignites_chinese_mystery)</cite>
 
-> Beijing is Burning - More lies from the PRC
-> - <cite>Ann Noonan, **National Review** [[閱讀]](reports/beijing_is_burning)</cite>
+> 北京在燃燒 - 更多的中國謊言
+> - <cite>Ann Noonan, **國家評論** [[閱讀]](reports/beijing_is_burning)</cite>
 
-> The Fires This Time:Immolation Or Deception In Beijing
-> - <cite> **MediaChannel** [[閱讀]](reports/)</cite>
+> 這次的火焰 - 自焚還是北京的欺騙?
+> - <cite> **媒體頻道** [[閱讀]](reports/)</cite>
 
 > Investigation Uncovers More Lies in Chinese Regime's Story of Tragic Self-Immolation Incident
 > - <cite>**WOIPFG** [[閱讀]](reports/)</cite>

@@ -6,9 +6,9 @@ noshowdate = true
 +++
 
 ## Human Fire Ignites Chinese Mystery
-**Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
+**Motive for Public Burning Intensifies Fight Over Falun Gong** (Excerpts [^1])
 
-By **Philip P. Pan**
+By **[Philip P. Pan](https://en.wikipedia.org/wiki/Philip_Pan)**
 
 *February 4, 2001*
 
