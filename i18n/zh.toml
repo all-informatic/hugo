@@ -1,24 +1,26 @@
 [pageNotExists]
-  other = "That page doesn't exist!"
+  other = "沒找到這個網頁"
 [home]
   other = "主頁"
 [newerPosts]
-  other = "Newer Posts"
+  other = "更新"
 [olderPosts]
-  other = "Older Posts"
+  other = "更早"
 [pageOf]
-  other = "Page {{ .PageNumber }} of {{ .TotalPages }}"
+  other = "{{ .PageNumber }}/{{ .TotalPages }}頁"
 [postedOn]
-  other = "Posted on"
+  other = "發表於"
 [readMore]
-  other = "Read more"
+  other = "閱讀"
 [contactMe]
-  other = "Contact me"
+  other = "聯系我們"
 [dateTimeFormat]
   other = "Jan 2, 2006 at 15:04"
 [dateFormat]
   other = "Jan 2, 2006"
 [allTags]
-  other = "All tags"
+  other = "所有標籤"
+[sitemap]
+  other = "網頁地圖"
 [links]
-  other = "連結"
+  other = "鏈接"

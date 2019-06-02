@@ -29,22 +29,13 @@ Parmi d'autres détails, un journaliste du Washington Post a enquêté sur la je
 > - <cite>Ann Noonan, **National Review** [[Read it]](reports/beijing_is_burning)</cite>
 
 > The Fires This Time:Immolation Or Deception In Beijing
-> - <cite> **MediaChannel** [[Read it]](reports/)</cite>
+> - <cite> **MediaChannel** [[Read it]](reports/the_fire_this_time_immolation_or_deception_in_beijing)</cite>
 
-> Investigation Uncovers More Lies in Chinese Regime's Story of Tragic Self-Immolation Incident
-> - <cite>**WOIPFG** [[Read it]](reports/)</cite>
+> Investigation Uncovers More Lies
+> - <cite>**WOIPFG** [[Read it]](reports/investigation_uncovers_more_lies)</cite>
 
 > The Tiananmen Square "Self-Immolation"
-> - <cite>**FalunInfo** [[Read it]](reports/)</cite>
-
-> Tiananmen Square Self-Immolation? Actually a Hoax
-> - <cite>**Epoch Times** [[Read it]](reports/)</cite>
-
-> Another important part of the government's propaganda campaign has been to publicise statements from people identified as former Falun Gong practitioners...
-> - <cite>**Amnesty International** [[Read it]](reports/)</cite>
-
-> China's determination to prevent the foreign press from covering the activities and government repression of the Falungong clearly illustrates its rejection of independent news gathering.
-> - <cite>**Reporters Without Borders**:  [[Read the article]](reports/)</cite>
+> - <cite>**FalunInfo** [[Read it]](reports/the_tiananmen_square_self_immolation)</cite>
 
 [More reports and analyses...](reports/)
 

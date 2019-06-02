@@ -5,13 +5,10 @@ description = "by Philip P. Pan"
 noshowdate = true
 +++
 
-## Human Fire Ignites Chinese Mystery
-**Motive for Public Burning Intensifies Fight Over Falun Gong** (Excerpts [^1])
+## Human Fire Ignites Chinese Mystery (Excerpts [^1])
+**Motive for Public Burning Intensifies Fight Over Falun Gong** 
 
-By **[Philip P. Pan](https://en.wikipedia.org/wiki/Philip_Pan)**
-
-*February 4, 2001*
-
+By **[Philip P. Pan](https://en.wikipedia.org/wiki/Philip_Pan)** *February 4, 2001*
 
 KAIFENG, China (Washington Post Foreign Service) — There is a neighborhood on the eastern side of this once-glorious city called Apple Orchard, but there are no apple trees here, only drab concrete buildings and clusters of unemployed men loitering on mud streets. It was here, in a fourth-floor apartment in Building Six, that Liu Chunling and her 12-year-old daughter, Liu Siying, lived.
 
@@ -74,3 +71,5 @@ None ever saw her practice Falun Gong.
 [Washington Post Link](https://www.washingtonpost.com/archive/politics/2001/02/04/human-fire-ignites-chinese-mystery/e27303e3-6117-4ec3-b6cf-58f03cdb4773/?utm_term=.e0b129d43a6c)
 
 [Falun Info Link](http://faluninfo.net/washington-post-human-fire-ignites-chinese-mystery-excerpts/)
+
+[Web archive](http://web.archive.org/web/20190403204120/https://www.washingtonpost.com/archive/politics/2001/02/04/human-fire-ignites-chinese-mystery/e27303e3-6117-4ec3-b6cf-58f03cdb4773/)

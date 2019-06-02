@@ -24,20 +24,11 @@ title = "False Fire Homepage"
 > 這次的火焰 - 自焚還是北京的欺騙?
 > - <cite> **媒體頻道** [[閱讀]](reports/)</cite>
 
-> Investigation Uncovers More Lies in Chinese Regime's Story of Tragic Self-Immolation Incident
-> - <cite>**WOIPFG** [[閱讀]](reports/)</cite>
+> 調查揭露中共"自焚"報道的更多謊言
+> - <cite>**WOIPFG** [[閱讀]](reports/investigation_uncovers_more_lies)</cite>
 
-> The Tiananmen Square "Self-Immolation"
-> - <cite>**FalunInfo** [[閱讀]](reports/)</cite>
-
-> Tiananmen Square Self-Immolation? Actually a Hoax
-> - <cite>**Epoch Times** [[閱讀]](reports/)</cite>
-
-> Another important part of the government's propaganda campaign has been to publicise statements from people identified as former Falun Gong practitioners...
-> - <cite>**Amnesty International** [[閱讀]](reports/)</cite>
-
-> China's determination to prevent the foreign press from covering the activities and government repression of the Falungong clearly illustrates its rejection of independent news gathering.
-> - <cite>**Reporters Without Borders**:  [[閱讀]](reports/)</cite>
+> 天安門廣場“自焚”事件
+> - <cite>**法輪大法信息中心** [[閱讀]](reports/the_tiananmen_square_self_immolation)</cite>
 
 [[更多...]](reports/)
 

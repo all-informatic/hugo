@@ -5,10 +5,8 @@ description = "by Ann Noonan, policy director for the Laogai Foundation"
 noshowdate = true
 +++
 
-[Web Archive](https://web.archive.org/web/20131029202638/http://old.nationalreview.com/comment/commentprint021301a.html)
-
-## Beijing is Burning - More Lies from the PRC
-**Motive for Public Burning Intensifies Fight Over Falun Gong (Excerpts [^1])**
+## Beijing is Burning - More Lies from the PRC (Cached copy[^1])
+**Motive for Public Burning Intensifies Fight Over Falun Gong**
 
 By **Ann Noonan**, Policy Director for the Laogai Foundation
 
@@ -41,3 +39,7 @@ It has been noted that some hard-liners are not even attempting to camouflage th
 It is wrenching to think that all it took to reinvigorate Beijing's propaganda machine was a few simple breathing exercises. China's war on the Falun Gong revitalizes Mao's dream: to let no aspect of Chinese society escape the party's grasp.
 
 Are the 2008 Olympics worth all that?
+
+[Web Archive](https://web.archive.org/web/20131029202638/http://old.nationalreview.com/comment/commentprint021301a.html)
+
+[^1]: The link to the original article is no longer available. The above is a cached copy of the original article.

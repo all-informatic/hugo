@@ -141,21 +141,21 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
       identifier = "email"
       url = "mailto:falsefiresite@gmail.com"
     [[languages.zh.menu.links]]
-      name = "Wikipedia"
+      name = "維基百科"
       weight = 2
       identifier = "wikipedia"
       url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
 
     [[languages.zh.menu.sitemap]]
-      name = "Home"
+      name = "主頁"
       url = "/"
       weight = 1
     [[languages.zh.menu.sitemap]]
-      name = "About False Fire"
+      name = "關於《僞火》"
       url = "about"
       weight = 2
     [[languages.zh.menu.sitemap]]
-      name = "Reports and Analyses"
+      name = "報導和分析"
       url = "reports"
       weight = 3
 
