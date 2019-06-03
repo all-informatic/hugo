@@ -5,7 +5,7 @@ description = "by Danny Schechter"
 noshowdate = true
 +++
 
-## The Fires This Time: Immolation Or Deception In Beijing?
+## The Fires This Time: Immolation Or Deception In Beijing? (Cached copy[^1])
 
 By **[Danny Schechter](https://en.wikipedia.org/wiki/Danny_Schechter)**
 
@@ -72,3 +72,5 @@ On February 17, more than a thousand Falun Gong practitioners protested nonviole
 In light of the prominent media play this "mass suicide" story received, it is not too late to thoroughly investigate not only what happened but whether and why we were all taken in.
 
 [Web archive](http://web.archive.org/web/20021202162929/http://www.mediachannel.org/views/dissector/falungong2.shtml)
+
+[^1]: The link to the original article is no longer available. The above is a cached copy of the original article.

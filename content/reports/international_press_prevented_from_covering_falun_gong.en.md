@@ -1,6 +1,6 @@
 +++
 date = "2001-12-04T00:00:00+02:00"
-title = "Reporters without Borders: The international press still prevented from covering the activities of the Falungong movement"
+title = "Reporters without Borders: The International Press Still Prevented from Covering the Activities of the Falungong Movement"
 description = "by Reporters without Borders"
 noshowdate = true
 +++

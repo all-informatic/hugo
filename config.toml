@@ -1,6 +1,6 @@
 #baseurl         = "https://falsefire.com/"
-#baseurl         = "https://localhost:1313/"
-baseurl         = "https://falsefiresite.github.io/falsefire.com/"
+baseurl         = "https://falsefire.yudian.news"
+#baseurl         = "https://falsefiresite.github.io/falsefire.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 theme           = "den"
@@ -163,7 +163,7 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
   languageCode = "fr"
   languageName = "Français"
   weight = 3
-  title = "False Fire (F)"
+  title = "False Fire"
   subtitle = "The Truth: Tiananmen Square Self-Immolation"
 
   [languages.fr.params]
@@ -171,7 +171,7 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
 
   [languages.fr.menu]
     [[languages.fr.menu.main]]
-      name = "About (F)"
+      name = "À propos"
       identifier = "about"
       url = "about"
       weight = 1
