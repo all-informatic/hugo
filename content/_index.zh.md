@@ -22,7 +22,7 @@ title = "False Fire Homepage"
 > - <cite>Ann Noonan, **國家評論** [[閱讀]](reports/beijing_is_burning)</cite>
 
 > 這次的火焰 - 自焚還是北京的欺騙?
-> - <cite> **媒體頻道** [[閱讀]](reports/)</cite>
+> - <cite> **媒體頻道** [[閱讀]](reports/the_fire_this_time_immolation_or_deception_in_beijing)</cite>
 
 > 調查揭露中共"自焚"報道的更多謊言
 > - <cite>**WOIPFG** [[閱讀]](reports/investigation_uncovers_more_lies)</cite>
