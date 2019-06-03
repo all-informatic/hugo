@@ -1,5 +1,5 @@
 #baseurl         = "https://falsefire.com/"
-baseurl         = "https://falsefire.yudian.news"
+baseurl         = "https://www2.falsefire.com"
 #baseurl         = "https://falsefiresite.github.io/falsefire.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
