@@ -1,8 +1,7 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
 title = "False Fire Homepage"
-#tags = ['blog']
-summary = "The most important information about our blog *The green spot* can be found here."
+hasvideojs = true
 +++
 
 # À propos de l´ "Auto-Immolation" (Feu mensonger)
@@ -44,8 +43,10 @@ Parmi d'autres détails, un journaliste du Washington Post a enquêté sur la je
 
 ### Part 1
 
-{{< youtube cek-6yplMAE >}}
+{{< comment >}}{{< youtube cek-6yplMAE >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_en_1.mp4" poster="/images/falsefire_1.jpg" width="640" height="480" %}}
 
 ### Part 2
 
-{{< youtube ErmImHogSKc >}}
+{{< comment >}}{{< youtube ErmImHogSKc >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_en_2.mp4" poster="/images/falsefire_2.jpg" width="640" height="480" %}}

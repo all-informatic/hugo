@@ -50,3 +50,11 @@
 {{- if and .Site.GoogleAnalytics (not .Site.IsServer) -}}
   {{ template "_internal/google_analytics_async.html" . }}
 {{- end -}}
+
+<!-- Video.js Styles -->
+{{ with .Params.hasvideojs }}
+  {{ if . }}
+<!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/video.js@7.5.4/dist/video-js.min.css">-->
+<link href="https://vjs.zencdn.net/7.5.4/video-js.min.css" rel="stylesheet">
+  {{ end }}
+{{ end }}

@@ -73,3 +73,11 @@
     </div>
   </div>
 </div>
+
+<!-- Video.js for post -->
+{{ with .Params.hasvideojs }}
+  {{ if . }}
+<!--<script async src="https://cdn.jsdelivr.net/npm/video.js@7.5.4/dist/video.min.js"></script>-->
+<script src='https://vjs.zencdn.net/7.5.4/video.min.js'></script>
+  {{ end }}
+{{ end }}

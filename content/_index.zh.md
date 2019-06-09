@@ -1,6 +1,7 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
-title = "False Fire Homepage"
+title = "僞火"
+hasvideojs = true
 +++
 
 # 天安門廣場“自焚”事件
@@ -36,8 +37,10 @@ title = "False Fire Homepage"
 
 ### 第一部分
 
-{{< youtube tGwwiRlVwhQ >}}
+{{< comment >}}{{< youtube tGwwiRlVwhQ >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_zh_1.mp4" poster="/images/falsefire_1.jpg" width="640" height="480" %}}
 
 ### 第二部分
 
-{{< youtube NLH5XdX6kqc >}}
+{{< comment >}}{{< youtube NLH5XdX6kqc >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_zh_2.mp4" poster="/images/falsefire_2.jpg" width="640" height="480" %}}
