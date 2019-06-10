@@ -1,5 +1,7 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
+title = "False Fire Homepage"
+hasvideojs = true
 +++
 
 # Tiananmen Square "Self-Immolation"
@@ -35,8 +37,10 @@ In the program, CCTV also broadcast the heartbreaking pictures of the 12-year-ol
 
 ### Part 1
 
-{{< youtube zY8lDVSSK7Q >}}
+{{< comment >}}{{< youtube zY8lDVSSK7Q >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_en_1.mp4" poster="/images/falsefire_1.jpg" width="640" height="480" %}}
 
 ### Part 2
 
-{{< youtube DkrLFALsw48 >}}
+{{< comment >}}{{< youtube DkrLFALsw48 >}}{{< /comment >}}
+{{% video mp4="/videos/falsefire_en_2.mp4" poster="/images/falsefire_2.jpg" width="640" height="480" %}}
