@@ -44,8 +44,8 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = ['custom.css', 'video.css']             # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
+  customCSS = ['override.css', 'video.css']  # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []                              # if ['custom.js'], load '/static/js/custom.js' file
 
   #poster = "images/poster.jpg"
 
@@ -87,7 +87,7 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
     identifier = "about"
     url = "about"
   [[languages.en.menu.main]]
-    name = "Reports and Analyses"
+    name = "Reports"
     weight = 2
     identifier = "reportss"
     url = "reports/"
@@ -112,7 +112,7 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
     url = "about"
     weight = 2
   [[languages.en.menu.sitemap]]
-    name = "Reports and Analyses"
+    name = "Reports"
     url = "reports"
     weight = 3
 
@@ -132,7 +132,7 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
       url = "about"
       weight = 1
     [[languages.zh.menu.main]]
-      name = "報導與文章"
+      name = "報導"
       identifier = "reports"
       url = "/reports"
       weight = 2
@@ -203,6 +203,88 @@ subTitle = "True Story: Staged Tiananmen Square Self-Immolation"
       url = "about"
       weight = 2
     [[languages.fr.menu.sitemap]]
-      name = "Reports and Analyses"
+      name = "Reports"
       url = "reports"
       weight = 3
+
+[languages.ro]
+  languageCode = "ro"
+  languageName = "Română"
+  #contentDir = "content/en"
+  weight = 1
+
+  [[languages.ro.menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "about"
+  [[languages.ro.menu.main]]
+    name = "Reports"
+    weight = 2
+    identifier = "reportss"
+    url = "reports/"
+
+  [[languages.ro.menu.links]]
+    name = "Email us"
+    weight = 1
+    identifier = "email"
+    url = "mailto:falsefiresite@gmail.com"
+  [[languages.ro.menu.links]]
+    name = "Wikipedia"
+    weight = 2
+    identifier = "wikipedia"
+    url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
+
+  [[languages.ro.menu.sitemap]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.ro.menu.sitemap]]
+    name = "About False Fire"
+    url = "about"
+    weight = 2
+  [[languages.ro.menu.sitemap]]
+    name = "Reports"
+    url = "reports"
+    weight = 3
+
+[languages.th]
+  languageCode = "th"
+  languageName = "Thai"
+  #contentDir = "content/th"
+  weight = 1
+
+  [[languages.th.menu.main]]
+    name = "About"
+    weight = 1
+    identifier = "about"
+    url = "about"
+  [[languages.th.menu.main]]
+    name = "Reports"
+    weight = 2
+    identifier = "reportss"
+    url = "reports/"
+
+  [[languages.th.menu.links]]
+    name = "Email us"
+    weight = 1
+    identifier = "email"
+    url = "mailto:falsefiresite@gmail.com"
+  [[languages.th.menu.links]]
+    name = "Wikipedia"
+    weight = 2
+    identifier = "wikipedia"
+    url = "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
+
+  [[languages.th.menu.sitemap]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.th.menu.sitemap]]
+    name = "About False Fire"
+    url = "about"
+    weight = 2
+  [[languages.th.menu.sitemap]]
+    name = "Reports"
+    url = "reports"
+    weight = 3

@@ -44,9 +44,9 @@ Parmi d'autres détails, un journaliste du Washington Post a enquêté sur la je
 ### Part 1
 
 {{< comment >}}{{< youtube cek-6yplMAE >}}{{< /comment >}}
-{{% video mp4="/videos/falsefire_en_1.mp4" poster="/images/falsefire_1.jpg" width="640" height="480" %}}
+{{% video mp4="/videos/falsefire_fr_1.mp4" poster="/images/falsefire_1.jpg" width="640" height="480" %}}
 
 ### Part 2
 
 {{< comment >}}{{< youtube ErmImHogSKc >}}{{< /comment >}}
-{{% video mp4="/videos/falsefire_en_2.mp4" poster="/images/falsefire_2.jpg" width="640" height="480" %}}
+{{% video mp4="/videos/falsefire_fr_2.mp4" poster="/images/falsefire_2.jpg" width="640" height="480" %}}
